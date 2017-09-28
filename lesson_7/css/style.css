@@ -1,0 +1,106 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.7;
+	color: #333333;
+}
+.zagolovok {
+	margin-top: 120px;
+	font-size: 24px;
+	text-align: center;
+}
+.zagolovok span {
+ display: block;
+ font-weight: 300;
+}
+.zagolovok strong{
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.main {
+	text-align: center;
+	margin-top: 85px;
+}
+
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+.form {
+	margin-left: 30px;
+	text-align: center;
+	border: 5px solid #2727d9;
+	padding: 20px;
+}
+.form input {
+	display: block;
+	margin-top: 20px;
+	width: 300px;
+	height: 50px;
+	padding: 17px;
+	border: 1px solid #333;
+	font-size: 18px;
+}
+.form-header {
+	margin-bottom: 20px;
+	text-align: center;
+	font-weight: 900;
+	font-size: 20px;
+}
+.btn {
+	display: block;
+	margin: 20px auto;
+	font-weight: 900;
+	color: white;
+	border: none;
+	font-size: 18px;
+	width: 300px;
+	height: 65px;
+	background: #2727d9; 
+}
+.col {
+	display: inline-block;
+	margin: 10px 60px;
+}
+.section h2 {
+	font-weight: 900;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 150px;
+	font-size: 24px;
+}
+.feature {
+	margin: 80px auto;
+	text-align: center;
+}
+
+.images h2 {
+	margin-bottom: 50px;
+	font-weight: 900;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 100px;
+	font-size: 24px;
+}
+.images {
+	text-align: center;
+}
+.col img {
+	margin: 0px 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
