@@ -12,6 +12,8 @@
 [Lesson 10](https://fortieshamilton.github.io/lesson_10 "Lesson 10")  - Препроцессор LESS для CSS. 
 
 [Lesson 13](https://fortieshamilton.github.io/lesson_13 "Lesson 13")  - Адаптивная верстка.    
+[Modul 5 P-1](https://fortieshamilton.github.io/lesson_14 "Modul 5 P-1")  - Модуль 5 Практика.    
+
 
 
 
