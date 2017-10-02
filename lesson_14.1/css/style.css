@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans');
+
+@font-face {
+	font-family: 'Bebas';
+	src: url('../fonts/BebasNeueLight.eot');
+	src: url('../fonts/BebasNeueLight.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/BebasNeueLight.woff2') format('woff2'),
+		url('../fonts/BebasNeueLight.woff') format('woff'),
+		url('../fonts/BebasNeueLight.ttf') format('truetype'),
+		url('../fonts/BebasNeueLight.svg#BebasNeueLight') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('../fonts/Lato-Light.eot');
+	src: url('../fonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Lato-Light.woff2') format('woff2'),
+		url('../fonts/Lato-Light.woff') format('woff'),
+		url('../fonts/Lato-Light.ttf') format('truetype'),
+		url('../fonts/Lato-Light.svg#Lato-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+.open-sans  {
+	font-family: 'Open Sans';
+}
+.babes  {
+	font-family: 'Babes';
+}
+.lato  {
+	font-family: 'Lato';
+}
+.lobsler  {
+	font-family: 'Lobster';
+}
