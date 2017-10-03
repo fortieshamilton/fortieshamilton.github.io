@@ -14,7 +14,7 @@
 [Lesson 13](https://fortieshamilton.github.io/lesson_13 "Lesson 13")  - Адаптивная верстка.    
 [Modul 5 P-1](https://fortieshamilton.github.io/lesson_14 "Modul 5 P-1")  - Модуль 5 Практика.   
 
-[Lesson 14](https://fortieshamilton.github.io/lesson_# "Lesson 14")  - Подключение шрифтов.    
+[Lesson 14](https://fortieshamilton.github.io/lesson_14.1 "Lesson 14")  - Подключение шрифтов.    
 [Modul 5 P-2](https://fortieshamilton.github.io/lesson# "Modul 5 P-2")  - Модуль 5 Практика. Подключение шрифтов, верстка первого экрана.   
 
 [Lesson 15](https://fortieshamilton.github.io/lesson_# "Lesson 15")  - Псевдоклассы и псевдоэлементы.    
