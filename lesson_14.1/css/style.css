@@ -2,13 +2,13 @@
 
 @font-face {
 	font-family: 'Bebas';
-	src: url('../fonts/BebasNeueLight.eot');
-	src: url('../fonts/BebasNeueLight.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/BebasNeueLight.woff2') format('woff2'),
-		url('../fonts/BebasNeueLight.woff') format('woff'),
-		url('../fonts/BebasNeueLight.ttf') format('truetype'),
-		url('../fonts/BebasNeueLight.svg#BebasNeueLight') format('svg');
-	font-weight: 300;
+	src: url('../fonts/Bebas.eot');
+	src: url('../fonts/Bebas.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Bebas.woff2') format('woff2'),
+		url('../fonts/Bebas.woff') format('woff'),
+		url('../fonts/Bebas.ttf') format('truetype'),
+		url('../fonts/Bebas.svg#Bebas') format('svg');
+	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
@@ -42,8 +42,8 @@ small {
 .open-sans  {
 	font-family: 'Open Sans';
 }
-.babes  {
-	font-family: 'Babes';
+.bebas  {
+	font-family: 'Bebas';
 }
 .lato  {
 	font-family: 'Lato';
