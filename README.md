@@ -17,7 +17,7 @@
 [Lesson 14](https://fortieshamilton.github.io/lesson_14.1 "Lesson 14")  - Подключение шрифтов.    
 [Modul 5 P-2](https://fortieshamilton.github.io/lesson# "Modul 5 P-2")  - Модуль 5 Практика. Подключение шрифтов, верстка первого экрана.   
 
-[Lesson 15](https://fortieshamilton.github.io/lesson_# "Lesson 15")  - Псевдоклассы и псевдоэлементы.    
+[Lesson 15](https://fortieshamilton.github.io/lesson_15 "Lesson 15")  - Псевдоклассы и псевдоэлементы.    
 [Modul 5 P-3](https://fortieshamilton.github.io/lesson_# "Modul 5 P-3")  - Модуль 5 Практика. Эффекты при наведении и адаптив первого экрана.    
 
 
