@@ -20,5 +20,5 @@
 [Lesson 15](https://fortieshamilton.github.io/lesson_15 "Lesson 15")  - Псевдоклассы и псевдоэлементы.    
 [Modul 5 P-3](https://fortieshamilton.github.io/practica_3/index.html "Modul 5 P-3")  - Модуль 5 Практика. Эффекты при наведении и адаптив первого экрана. 
 
-[Lesson 16](https://fortieshamilton.github.io/lesson_15 "Lesson 15")  - Слайдер на сайте.    
-[Modul 5 P-4](https://fortieshamilton.github.io/practica_3/index.html "Modul 5 P-3")  - Модуль 5 Практика. Верстка блока с преимуществами. Слайдер. 
+[Lesson 16](https://fortieshamilton.github.io/lesson_16 "Lesson 16")  - Слайдер на сайте.    
+[Modul 5 P-4](https://fortieshamilton.github.io/practica_4/index.html "Modul 5 P-4")  - Модуль 5 Практика. Верстка блока с преимуществами. Слайдер. 
