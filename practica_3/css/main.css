@@ -141,7 +141,7 @@ section {
 .phone-link {
   display: inline-block;
   font-family: 'ProximaNova-bold', sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.6rem;
   height: 7rem;
   line-height: 7rem;
   color: #1a1820;
@@ -166,8 +166,17 @@ section {
   .main {
     background-position: top left;
   }
+  .main-title h1 {
+    font-size: 1.7rem;
+  }
+  .button {
+    font-size: 1rem;
+  }
   .header,
   .wrap-block {
     text-align: center;
+  }
+  .phone-link {
+    font-size: 1.5rem;
   }
 }

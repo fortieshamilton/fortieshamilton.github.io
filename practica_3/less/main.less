@@ -54,6 +54,7 @@ button, input, a {
 		outline: none;
 	}
 }
+
 .button {
 	font-size: 1.2rem;
 	padding: 1em 3rem;
@@ -192,10 +193,19 @@ section {
 }
 @media (max-width: 767px) {
 	.main {
+		&-title h1{
+			font-size: 1.7rem;
+		}
 		background-position: top left;
+	}
+	.button {
+		font-size: 1rem;
 	}
 	.header, .wrap-block {
 		text-align: center;
+	}
+	.phone-link {
+		font-size: 1.5rem;
 	}
 }
 
