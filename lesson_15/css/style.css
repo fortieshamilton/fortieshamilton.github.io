@@ -84,8 +84,9 @@ h2 {
 }
 
 .button-one:hover {
-  background: rgba(200,100,0,0.7);	}
-
+	transform: skew(-25deg);
+}
 .button-two:hover {
-  background: rgba(100,200,0,0.7);	}
+	transform: skew(25deg);
+}
 
