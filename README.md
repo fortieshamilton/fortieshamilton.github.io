@@ -23,5 +23,5 @@
 [Lesson 16](https://fortieshamilton.github.io/lesson_16/index.html "Lesson 16")  - Слайдер на сайте.    
 [Modul 5 P-4](https://fortieshamilton.github.io/practica_4/index.html "Modul 5 P-4")  - Модуль 5 Практика. Верстка блока с преимуществами. Слайдер. 
 
-[Lesson 16](https://fortieshamilton.github.io/lesson_17/index.html "Lesson 17")  - .    
-[Modul 5 P-4](https://fortieshamilton.github.io/practica_5/index.html "Modul 5 P-5")  - Модуль 5 Практика. . 
+[Lesson 17](https://fortieshamilton.github.io/lesson_17/index.html "Lesson 17")  - Всплывающие окна.    
+[Modul 5 P-5](https://fortieshamilton.github.io/practica_5/index.html "Modul 5 P-5")  - Модуль 5 Практика. . 
