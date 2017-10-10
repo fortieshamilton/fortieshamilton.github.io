@@ -1,0 +1,12 @@
+.login{
+  padding: 2rem;
+  text-align: center;
+  &-login 
+  p{
+    input {
+    display: inline-block;
+    background-color: #1e1d1d;
+    color: white;
+    }
+  }
+}
