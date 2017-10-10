@@ -244,6 +244,9 @@ section {
   font-size: 3rem;
   color: #ffffff;
 }
+.popup-close:hover {
+  cursor: pointer;
+}
 .popup-headerv {
   font-family: 'ProximaNova-bold', sans-serif;
 }
