@@ -24,8 +24,8 @@
 [Modul 5 P-4](https://fortieshamilton.github.io/practica_4/index.html "Modul 5 P-4")  - Модуль 5 Практика. Верстка блока с преимуществами. Слайдер. 
 
 [Lesson 17](https://fortieshamilton.github.io/lesson_17/index.html "Lesson 17")  - Всплывающие окна.    
-[Modul 5 P-5](https://fortieshamilton.github.io/practica_5/index.html "Modul 5 P-5")  - Модуль 5 Практика. . 
+[Modul 5 P-5](https://fortieshamilton.github.io/practica_5/index.html "Modul 5 P-5")  - Модуль 5 Практика. Верстка всплывающих окон на сайте. 
 
 [Lesson 18.1](https://fortieshamilton.github.io/lesson_18.1/index.html "Lesson 18")  - Табы от bootstrap.    
 [Lesson 18.2](https://fortieshamilton.github.io/lesson_18.2/index.html "Lesson 18")  - Аккордеон от bootstrap.    
-[Modul 5 P-5](https://fortieshamilton.github.io/practica_5/index.html "Modul 5 P-5")  - Модуль 5 Практика. . 
+[Modul 5 P-6](https://fortieshamilton.github.io/practica_6/index.html "Modul 5 P-6")  - Модуль 5 Практика. Верстка блока с ценами. 
