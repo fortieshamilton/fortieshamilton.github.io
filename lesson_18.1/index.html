@@ -1,78 +1,50 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="icon" href="/favicon.ico">
-
-    <title>Starter Template for Bootstrap</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap3.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="css/main.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <title>Lesson18.1</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
   </head>
 
   <body>
 
-  <section class="container">
-    <div class="row">
-      <div class="col-lg-6 col-lg-offset-3">
-        
-    
-    <div>
-        <!-- Nav tabs -->
-        <ul class="nav nav-tabs" role="tablist">
-          <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Войти</a></li>
-          <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Регистрация</a></li>
+    <div class="container">
+      <div>       
+        <ul class="nav nav-tabs">
+          <li class="active">
+            <a href="#login" data-toggle="tab">Вход</a>
+          </li>
+          <li>
+            <a href="#reg" data-toggle="tab">Регистрация</a>
+          </li>
+          <li>
         </ul>
-        <!-- Tab panes -->
-        <div class="tab-content">
-
-          <div role="tabpanel" class="tab-pane active" id="home">
-
-            <div class="login">
-              <form class="login-form" method="post" action="index.html">
-                <p><input type="text" name="login" value="" placeholder="Ваше имя"></p>
-                <p><input type="password" name="password" value="" placeholder="Пароль"></p>
-                <p class="remember_me">
-              <label> <input type="checkbox" name="remember_me" id="remember_me">  Запомнить меня </label>
-               </p>
-               <a href="index.html">Забыли пароль?</a>
-               <p class="submit"> <input type="submit" name="commit" value="Войти"> </p>
-              </form>
+          <div class="tab-content">
+            <div class="tab-pane active" id="enter">          
+              <div class="form-box">
+                <form action="#">
+                  <input class="text-input" type="text" placeholder="Ваше имя">
+                  <input class="text-input second-field" type="text" placeholder="Пароль">
+                  <a class="pass" href="#">Забыли пароль?</a>
+                  <input id="reminder" class="checkbox" type="checkbox">
+                  <label for="reminder">Напомнить мне</label>
+                  <button class="form-btn">Войти</button>
+                </form>
+              </div>
             </div>
-
+          <div class="tab-pane " id="reg">
+            <p>Регистрация</p>
           </div>
-
-          <div role="tabpanel" class="tab-pane" id="profile">...</div>
         </div>
-
       </div>
-
-     </div>
     </div>
-  </section>
-    <!-- /.container -->
 
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
-
   </body>
 </html>
