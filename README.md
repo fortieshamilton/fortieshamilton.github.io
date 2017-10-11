@@ -29,3 +29,9 @@
 [Lesson 18.1](https://fortieshamilton.github.io/lesson_18.1/index.html "Lesson 18")  - Табы от bootstrap.    
 [Lesson 18.2](https://fortieshamilton.github.io/lesson_18.2/index.html "Lesson 18")  - Аккордеон от bootstrap.    
 [Modul 5 P-6](https://fortieshamilton.github.io/practica_6/index.html "Modul 5 P-6")  - Модуль 5 Практика. Верстка блока с ценами. 
+
+[Lesson 19](https://fortieshamilton.github.io/lesson_19/index.html "Lesson 19")  - .    
+[Modul 5 P-7](https://fortieshamilton.github.io/practica_7/index.html "Modul 5 P-7")  - Модуль 5 Практика. . 
+
+[Lesson 10](https://fortieshamilton.github.io/lesson_20/index.html "Lesson 20")  - .    
+[Modul 5 P-8](https://fortieshamilton.github.io/practica_8/index.html "Modul 5 P-8")  - Модуль 5 Практика. . 
