@@ -33,5 +33,5 @@
 [Lesson 19](https://fortieshamilton.github.io/lesson_19/index.html "Lesson 19")  - Анимация на CSS3.    
 [Modul 5 P-7](https://fortieshamilton.github.io/practica_7/index.html "Modul 5 P-7")  - Модуль 5 Практика. Верстка блока с отзывами. 
 
-[Lesson 10](https://fortieshamilton.github.io/lesson_20/index.html "Lesson 20")  - Видео-фон на сайте.    
+[Lesson 20](https://fortieshamilton.github.io/lesson_20/index.html "Lesson 20")  - Видео-фон на сайте.    
 [Modul 5 P-8](https://fortieshamilton.github.io/practica_8/index.html "Modul 5 P-8")  - Модуль 5 Практика. Доверстали блок с отзывами. 
