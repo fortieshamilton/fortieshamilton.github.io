@@ -34,7 +34,7 @@
 [Modul 5 P-7](https://fortieshamilton.github.io/practica_7/index.html "Modul 5 P-7")  - Модуль 5 Практика. Верстка блока с отзывами. 
 
 [Lesson 20](https://fortieshamilton.github.io/lesson_20/index.html "Lesson 20")  - Видео-фон на сайте.    
-- [Modul 5 P-8](https://fortieshamilton.github.io/practica_8/index.html "Modul 5 P-8")  - Модуль 5 Практика. Доверстали блок с отзывами. 
+[Modul 5 P-8](https://fortieshamilton.github.io/practica_8/index.html "Modul 5 P-8")  - Модуль 5 Практика. Доверстали блок с отзывами. 
 
 - [Lesson 21](https://fortieshamilton.github.io/lesson_21/index.html "Lesson 21")  - .    
 - [Modul 5 P-9](https://fortieshamilton.github.io/practica_9/index.html "Modul 5 P-9")  - Модуль 5 Практика. Верстка блока с отзывами. 
