@@ -39,7 +39,7 @@
 [Lesson 21](https://fortieshamilton.github.io/lesson_21/index.html "Lesson 21")  - Parallax эффект для сайта.    
 [Modul 5 P-9](https://fortieshamilton.github.io/practica_9/index.html "Modul 5 P-9")  - Модуль 5 Практика. Верстаем схему работы и все включено. 
 
-- [Lesson 22](https://fortieshamilton.github.io/lesson_22/index.html "Lesson 22")  - .    
+[Lesson 22](https://fortieshamilton.github.io/lesson_22/index.html "Lesson 22")  - Гео-карты для сайта.    
 - [Modul 5 P-10](https://fortieshamilton.github.io/practica_10/index.html "Modul 5 P-10")  - Модуль 5 Практика. .   
  
 - [Lesson 23](https://fortieshamilton.github.io/lesson_23/index.html "Lesson 23")  - .    
