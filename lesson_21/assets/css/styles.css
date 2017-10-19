@@ -263,8 +263,8 @@ a.btn-cta {
 /* ======= Hero Section ======= */
 .hero-section {
   min-height: 560px;
-/*  background: #494d55;
-*/  position: relative;
+  background: #494d55;
+  position: relative;
 }
 .hero-section .figure-holder-wrapper {
   position: absolute;
@@ -292,25 +292,28 @@ a.btn-cta {
   background-position: center center;
 }
 .hero-carousel .carousel-inner .item-1 {
-/*  background-image: url('../images/hero-1.jpg');
-*/  -webkit-background-size: cover;
+  background-image: url('../images/hero-1.jpg');
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-attachment: fixed;
 }
 .hero-carousel .carousel-inner .item-2 {
-/*  background-image: url('../images/hero-2.jpg');
-*/  -webkit-background-size: cover;
+  background-image: url('../images/hero-2.jpg');
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-attachment: fixed;
 }
 .hero-carousel .carousel-inner .item-3 {
-/*  background-image: url('../images/hero-3.jpg');
-*/  -webkit-background-size: cover;
+  background-image: url('../images/hero-3.jpg');
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-attachment: fixed;
 }
 .hero-carousel .carousel-inner .heading {
   font-size: 30px;
